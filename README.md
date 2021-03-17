@@ -6,3 +6,4 @@ Shortcuts for MAC (the plus sign [+] just means and, it doesn't mean an actual p
 - To go to the folder that you need: Ask Siri
 - To add a folder to favorites - press ctrl + cmd + T
 - To switch languages (if languages are already set up) - press ctrl + option + spacebar
+- To open developer tools in chrom - press cmd + option + j
